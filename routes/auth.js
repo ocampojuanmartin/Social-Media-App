@@ -4,7 +4,7 @@ const User = require("../models/User")
 
 //REGISTER
 router.get("/register", async (req,res)=>{
-    res.send("ok")
+    res.send("okk")
 })
 
 module.exports = router
